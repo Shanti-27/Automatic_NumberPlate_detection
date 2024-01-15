@@ -1,1 +1,2 @@
-Automatic Number Detection 
+Automatic Number Detection using OPENCV,easyocr
+
