@@ -1,4 +1,4 @@
-Automatic Number plate Detection 
+Automatic Number Detection 
 
 
 Automatic Number Plate Detection (ANPD) is crucial for various applications, including:
